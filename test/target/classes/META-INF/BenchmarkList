@@ -1,0 +1,3 @@
+JMH S 22 org.sample.MyBenchmark S 62 org.sample.generated.MyBenchmark_test_createLinkedList_jmhTest S 21 test_createLinkedList S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E M 1 5 NSIZE 1 3 100 E E E 
+JMH S 22 org.sample.MyBenchmark S 58 org.sample.generated.MyBenchmark_test_createVector_jmhTest S 17 test_createVector S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E M 1 5 NSIZE 1 3 100 E E E 
+JMH S 22 org.sample.MyBenchmark S 61 org.sample.generated.MyBenchmark_test_createArrayList_jmhTest S 20 test_createArrayList S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E M 1 5 NSIZE 1 3 100 E E E 
